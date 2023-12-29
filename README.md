@@ -1,7 +1,7 @@
-**Snake Game in Bash**
+# Snake Game in Bash
 Jogo da Cobrinha em Bash - Uma implementação simples e divertida do clássico jogo da cobrinha diretamente no terminal. Controle a cobra, coma a comida e evite colisões para ganhar pontos. Uma experiência de jogo nostálgica em Bash!
 
-Português (PT-BR):
+*Português (PT-BR):*
 ### Como Jogar
 1. Clone este repositório para o seu sistema local.
     ```bash
@@ -53,10 +53,10 @@ Agradecemos por jogar o Snake Game em Bash! Divirta-se e desafie-se a obter a ma
 
 ---
 
-**Snake Game in Bash**
-*Jogo da Cobrinha em Bash - An implementation of the classic Snake game in Bash, providing a simple and enjoyable experience directly in the terminal. Control the snake, eat food, and avoid collisions to score points. A nostalgic gaming experience in Bash!*
+# Snake Game in Bash
+Jogo da Cobrinha em Bash - An implementation of the classic Snake game in Bash, providing a simple and enjoyable experience directly in the terminal. Control the snake, eat food, and avoid collisions to score points. A nostalgic gaming experience in Bash!
 
-English (EN-US):
+*English (EN-US):*
 ### How to Play
 1. Clone this repository to your local system.
     ```bash
